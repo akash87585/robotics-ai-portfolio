@@ -1,0 +1,5 @@
+print("Day 1: Robotics + AI Journey Started")
+print("Goal: Robotics / AI job abroad in 2 months")
+name = input("Enter your name: ")
+country = input("Country you want to work in: ")
+print(f"{name} will become a Robotics + AI engineer in {country}")
