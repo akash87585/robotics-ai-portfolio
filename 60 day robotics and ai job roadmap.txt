@@ -1,0 +1,71 @@
+📘 PHASE 1 — Python + Robotics Basics (Day 1–15)
+
+Day 1: Setup Python, Git, VS Code + First Program
+Day 2: Industry Robot Motion Control (basic movement)
+Day 3: Intelligent Multi-Sensor Robot System (AI Logic)
+Day 4: Autonomous Robot Navigation (Turning + Logic)
+Day 5: Python Loops, Conditions, Functions Deep Practice
+Day 6: Error Handling + Clean Code for Robotics
+Day 7: Python Objects + Classes for Robot Modeling
+Day 8: File Handling + Logging Robot Data
+Day 9: Working with Real Sensor Data (simulated)
+Day 10: Mathematics for Robotics (Distance, Angle, Speed)
+Day 11: Robot Kinematics Basics
+Day 12: 2D Motion Simulation in Python
+Day 13: Understanding ROS (Robot Operating System) Basics
+Day 14: Building a Mini Robot Framework (Your Own Library)
+Day 15: Day-1 to 15 Revision + 20 Interview Questions
+
+🤖 PHASE 2 — Robotics Systems & AI (Day 16–30)
+
+Day 16: Real-World Sensor Fusion
+Day 17: PID Control – Robot Speed and Balance
+Day 18: Path Planning Basics (A*, BFS)
+Day 19: Obstacle Avoidance AI
+Day 20: Basic Computer Vision – Images & Pixels
+Day 21: OpenCV Install + Basic Image Processing
+Day 22: Object Detection Basics
+Day 23: Face Detection / Human Detection
+Day 24: Autonomous Robot Vision Simulation
+Day 25: AI Classification Model (Robotics Dataset)
+Day 26: Training a Small ML Model (Sensors → Action)
+Day 27: Reinforcement Learning Intro for Robots
+Day 28: Q-Learning Simulation (Grid Robot)
+Day 29: Combining AI + Robotics Logic
+Day 30: Phase 2 Revision + Interview Prep
+
+🦾 PHASE 3 — ROS + Real Robotics (Day 31–45)
+
+Day 31: Installing ROS2 (you will download at night)
+Day 32: ROS Topics, Nodes, Publishers, Subscribers
+Day 33: Robot Commands using ROS2
+Day 34: Launch Files + Robot Simulation Setup
+Day 35: URDF (Robot Model) Creation
+Day 36: Gazebo Simulation Start
+Day 37: Moving a Robot in Gazebo
+Day 38: Sensor Plugins in Gazebo
+Day 39: Camera + Lidar in Gazebo
+Day 40: Autonomous Navigation in Simulation
+Day 41: Mapping (SLAM basic understanding)
+Day 42: Localisation (AMCL basics)
+Day 43: Navigation Stack Setup
+Day 44: Full Robot Simulation Project
+Day 45: ROS Phase Revision + Interview Prep
+
+💼 PHASE 4 — Portfolio + Resume + Interview (Day 46–60)
+
+Day 46: Create Robotics Portfolio Structure
+Day 47: Upload All Projects to GitHub
+Day 48: Write Industry-Level Readme Files
+Day 49: Create 1 Full AI + Robotics Project
+Day 50: Create 1 Full ROS2 Project
+Day 51: Create 1 Computer Vision Project
+Day 52: Create 1 Autonomous Navigation Project
+Day 53: Make a Job-Ready Resume (Robotics + AI)
+Day 54: LinkedIn Optimization
+Day 55: Mock Interview – Robotics
+Day 56: Coding Interview Practice
+Day 57: System Design Interview (Robotics)
+Day 58: HR Interview Prep
+Day 59: Apply for Jobs (USA, Germany, Canada, UAE)
+Day 60: Final Portfolio Submission + Roadmap Completed
