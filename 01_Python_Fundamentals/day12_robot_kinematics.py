@@ -27,3 +27,4 @@ theat += omega *dt
 print(f"step {step+1}: x={x:2f}, y={y:2f}, theat={math.degrees(theat):2f}")
 
 time.sleep(3)
+print("hello")
